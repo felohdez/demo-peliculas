@@ -1,0 +1,6 @@
+@Peliculas.WebApi_HostAddress = http://localhost:5008
+
+GET {{Peliculas.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
